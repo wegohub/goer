@@ -1,4 +1,4 @@
-package GoBeginnerLevel
+package d22
 
 import (
 	"fmt"
