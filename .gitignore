@@ -114,3 +114,5 @@ CLAUDE.md
 
 sdks/go/generator
 .pymon
+.metadata/static/*
+!.metadata/static/.keep
